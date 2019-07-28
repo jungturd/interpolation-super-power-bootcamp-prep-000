@@ -7,8 +7,6 @@
 
 # display_rainbow
 
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+colors = ["R: ", "O: ", "Y: ", "G: ", "B: ", "I: ", "V: "]
 
-def display_rainbow
-  
-end
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
